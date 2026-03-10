@@ -1,3 +1,7 @@
+# (Board TX) Physical PIN 10    GPIO 15
+# (Board VCC) Physical PIN 2    GPIO 3
+# (Board GND) Physical PIN 6    GPIO 6
+
 import serial,time
 ser=serial.Serial('/dev/serial0',9600,timeout=1)
 AUTHORIZED_CARD="400034E6E97B"
