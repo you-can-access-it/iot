@@ -1,7 +1,6 @@
 # sudo apt-get update
 # sudo apt-get upgrade
-# sudo raspi-config (interface >serial port >disable powershell log in >enable
-# hardware interface >exit)
+# sudo raspi-config (interface >serial port >disable powershell log in >enable hardware interface >exit)
 # reboot
 # pip3 install pyserial
 
