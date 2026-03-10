@@ -1,4 +1,8 @@
 #cross conection using usb module8
+# Gnd = Gnd
+# Vcc = 5 volt
+# RX= TX
+# TX = RX
 
 import serial
 

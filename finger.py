@@ -5,6 +5,11 @@
 #sudo usermod -a -G dialout $USER
 #sudo reboot
 
+# Vcc = vcc
+# Gnd=gnd
+# Rxd = txd
+# Txd = rxd
+
 from pyfingerprint.pyfingerprint import PyFingerprint
 import time
 

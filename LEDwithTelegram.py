@@ -28,6 +28,11 @@ sudo pip install telepot --break-system-package
 
 Code:
 '''
+# sudo apt-get upgrade
+# sudo apt-get update
+# sudo apt-get install python-pip
+# sudo pip install telepot
+
 import time
 import telepot
 import RPi.GPIO as GPIO
